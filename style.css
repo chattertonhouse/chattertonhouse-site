@@ -59,7 +59,7 @@ nav a:hover{color:var(--gold)}
 section{padding:4rem 0}
 h2{display:flex;align-items:center;gap:1.25rem;margin:0 0 2rem;color:var(--gold);font-weight:600;font-size:clamp(1.4rem,3.2vw,1.9rem);letter-spacing:.2em;text-transform:uppercase}
 h2::before,h2::after{content:"";flex:1;height:1px;background:rgba(198,165,106,.45)}
-.mission blockquote{margin:0 0 1.75rem;padding:0;text-align:center;font-size:clamp(1.45rem,3.2vw,2rem);line-height:1.5;font-style:italic;color:var(--cream)}
+.mission blockquote{margin:0;padding:0;text-align:center;font-size:clamp(1.45rem,3.2vw,2rem);line-height:1.5;font-style:italic;color:var(--cream)}
 .mission p,.dev p{text-align:center;color:var(--muted);margin:0 auto;max-width:60ch}
 .dev p{color:var(--cream)}
 
